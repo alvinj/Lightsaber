@@ -8,7 +8,15 @@ Note: Lightsaber has been tested on Mac OS X 10.9 (“Mavericks”) and 10.10 (�
 
 Using Lightsaber
 ----------------
-After a short, initial setup process (described below), using Lightsaber is as easy as it gets. Just (a) move your mouse and (b) hear sound effects.
+
+After a short initial setup process (described below), using Lightsaber is as easy as it gets. 
+Just (a) start the application, (b) move your mouse, and (c) hear sound effects.
+
+Note: While Lightsaber is packaged as a Mac application, and you can put the app icon in the 
+Mac Dock as usual, the current version of Lightsaber does not have a user interface. That being
+said, you can quit it in the usual ways, i.e., pressing [Command][Q] when it's the foreground
+application, using the menu to quit it, or by right-clicking it in the Mac Dock and selecting
+"Quit" from there.
 
 
 Privacy
