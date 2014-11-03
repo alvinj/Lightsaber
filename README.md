@@ -19,24 +19,12 @@ application, using the menu to quit it, or by right-clicking it in the Mac Dock 
 "Quit" from there.
 
 
-Privacy
--------
+Installation/Configuration
+--------------------------
 
-For Lightsaber to work, it has to listen to “global” mouse movements on your Mac while it runs in the background, In fact, that’s the only way it can work.
+You can find information about how to install and run the Lightsaber application at this URL:
 
-Because this is how Lightsaber must work, it’s important to know that these mouse movements are not recorded in any way, and they are not sent across the internet. Lightsaber just gets a "mouse motion" event from your Mac, then plays the appropriate sound. (It plays different sounds depending on how fast you move your mouse.)
-
-Given that information, if you're at all concerned about how this application works, don’t download it.
-
-
-Initial Setup
--------------
-
-If you want to use Lightsaber, you need to take a few moments to configure your Mac to let it run. I wrote about this configuration process before for my TypewriterFX application, so rather than repeat that all here, I'll just give you its URL:
-
-* http://www.valleyprogramming.com/typewriterfx
-
-Just follow the "Initial Setup" instructions shown on that page, but replace "TypewriterFX" with "Lightsaber" as you go along.
+* http://alvinalexander.com/lightsaber
 
 
 Sounds
@@ -53,22 +41,6 @@ Icon
 The lightsaber icon I've used is free for non-commercial use, and I got it from this URL:
 
 * http://www.iconarchive.com/show/starwars-icons-by-everaldo/Qui-Gon-Jinns-light-saber-icon.html
-
-
-More Information
-----------------
-
-You can find more information about this project here:
-
-* http://alvinalexander.com/lightsaber
-
-And you can find more information about me here:
-
-* http://alvinalexander.com
-
-Enjoy!
-
-
 
 
 
