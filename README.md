@@ -22,7 +22,8 @@ application, using the menu to quit it, or by right-clicking it in the Mac Dock 
 Installation/Configuration
 --------------------------
 
-You can find information about how to install and run the Lightsaber application at this URL:
+You can see a short video demo of Lightsaber, and learn how to install and run it
+at this URL:
 
 * http://alvinalexander.com/lightsaber
 
